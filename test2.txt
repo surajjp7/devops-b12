@@ -1,0 +1,2 @@
+Hi, WelCome to Git!
+NewFile has Updated to the GitHub Repo.
